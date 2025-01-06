@@ -422,7 +422,7 @@ Sie können diesen Code in eine HTML-Datei einfügen und in einem Browser öffne
     window.onload = loadBoard;
   </script>
 </body>
-</html>
+</html> ```
 
 
 Änderungen vorgenommen:
