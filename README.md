@@ -26,10 +26,10 @@ von Bildern gezeigt.
 
 # ChatGPT Prompts #
 **Ich**:  
-"Erstelle mir einen einfachen HTML, CSS und JS Code, der die Funktion eines Visionboards hat. Mindestens 3 Funktionen."
+Erstelle mir einen einfachen HTML, CSS und JS Code, der die Funktion eines Visionboards hat. Mindestens 3 Funktionen.
 
 **KI**:  
-"Hier ist ein einfacher HTML-, CSS- und JavaScript-Code für ein Visionboard mit mindestens drei Funktionen:  
+Hier ist ein einfacher HTML-, CSS- und JavaScript-Code für ein Visionboard mit mindestens drei Funktionen:  
 
 1. Hinzufügen von Bildern: Nutzer können URLs von Bildern eingeben, die dann dem Visionboard hinzugefügt werden.  
 2. Positionieren und Verschieben der Bilder: Bilder können per Drag-and-Drop verschoben werden.  
