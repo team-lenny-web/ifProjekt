@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vision Board</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Vision Board</h1>
+  <div id="controls">
+    <input type="text" id="image-url" placeholder="Bild-URL eingeben...">
+    <button onclick="addImage()">Bild hinzufügen</button>
+    <button onclick="saveBoard()">Vision Board speichern</button>
+  </div>
+  <p id="saved-message">Vision Board erfolgreich gespeichert!</p>
+  <div id="vision-board"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
