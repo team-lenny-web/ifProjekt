@@ -38,7 +38,7 @@ von Bildern gezeigt.
 Der Code: 
 
 
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="de">
 <head>
   <meta charset="UTF-8">
@@ -220,7 +220,8 @@ Der Code:
     window.onload = loadBoard;
   </script>
 </body>
-</html> 
+</html>
+```
 
 Funktionen:
 Hinzufügen von Bildern: Durch Eingabe einer Bild-URL und Klick auf den Button wird das Bild hinzugefügt.
