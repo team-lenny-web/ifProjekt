@@ -5,7 +5,7 @@ Der Sinn dahinter ist, dass man sich durch das Erstellen eines Vision Boards ein
 von Bildern gezeigt. 
 ![image](https://github.com/user-attachments/assets/92301f0c-0088-422e-a653-b0e4ae3edd1e)
 
-# Bsp: Auf einem Bild sieht man Geld = Man möchte in Zukunft viel Geld besitzen #
+**Bsp: Auf einem Bild sieht man Geld = Man möchte in Zukunft viel Geld besitzen**
 
 # Funktionen #
 - Bild per URL hinzufügen
