@@ -231,7 +231,7 @@ Sie können diesen Code in eine HTML-Datei einfügen und in einem Browser öffne
 
 **Ich**: "Das ist schonmal gut, danke. Allerdings soll das Design noch besser sein und man soll die Bilder zuschneiden können. Sie sollen ebenfalls gespeichert werden"
 
-**KI**: "<!DOCTYPE html>
+**KI**: ``` <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -422,6 +422,7 @@ Sie können diesen Code in eine HTML-Datei einfügen und in einem Browser öffne
   </script>
 </body>
 </html> 
+```
 
 Änderungen vorgenommen:
 Verbessertes Design:
@@ -439,7 +440,7 @@ Du kannst den Code jetzt testen und weitere Verbesserungen vorschlagen! 😊"
 
 **Ich**: "Bitte entferne die zuschneide funktion. ich möchte sie nicht mehr."
 
-**KI**: "<!DOCTYPE html>
+**KI**: ``` <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -630,6 +631,7 @@ Du kannst den Code jetzt testen und weitere Verbesserungen vorschlagen! 😊"
   </script>
 </body>
 </html> 
+```
 
 Die Zuschneidefunktion wurde entfernt. Lass mich wissen, falls weitere Änderungen erforderlich sind! 😊"
 
